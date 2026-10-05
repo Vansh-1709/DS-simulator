@@ -1,0 +1,6 @@
+{
+  "name": "DataStructs — Interactive Simulations & Games",
+  "description": "Interactive visual simulations and gamified challenges for mastering arrays, binary search trees, stacks, queues, linked lists, and graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
